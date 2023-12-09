@@ -13,14 +13,13 @@ This web application is designed to gamify the learning experience by allowing u
 ## Technologies Used
 - **Front-end:** HTML, CSS, JavaScript
 - **Back-end:** Node.js, Express
-- **Document Parsing:** [Document processing library or tool]
-- **Quiz Generation:** [Tool or library for creating quizzes dynamically]
+- **Document Parsing:** Through OpenAI API
+- **Quiz Generation:** React
 
 ## Installation
 1. Clone this repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Run the application using `npm start`.
-4. Access the web app via the provided URL (default: http://localhost:3000).
 
 ## Usage
 1. Access the web app via the provided URL.
@@ -31,12 +30,4 @@ This web application is designed to gamify the learning experience by allowing u
 ## Contributing
 Contributions to improve this web app are welcome! If you have any suggestions, bug fixes, or enhancements, please create an issue or submit a pull request.
 
-## Credits
-This web app uses [mention any third-party libraries or tools used for document parsing, quiz generation, etc.].
 
-## License
-[Specify the license information for the project.]
-
----
-
-Remember to include accurate and specific details about how the app works, the technologies used, installation instructions, usage guidelines, contribution information, credits, and the project's license. Adjust the content as per the actual tools, technologies, and specifics of your web app.
